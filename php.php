@@ -31,11 +31,12 @@
 	<div class="wrapper">
 	    <div class="container">
 	      <div class="starter-template">
-	        <h1>Welcome to the Slag of the Internet.</h1>
-	        <p>Who knows what you'll find here.</p>
+	        <h1>PHP</h1>
+	        <p>Here are some of the things my computer knows about your computer:</p>
 	      </div>
 	    </div>
     </div>
+    
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -46,4 +47,5 @@
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
+
 
