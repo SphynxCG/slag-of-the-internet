@@ -32,7 +32,7 @@
 	    <div class="container">
 	      <div class="starter-template">
 	        <h1>Welcome to the Slag of the Internet.</h1>
-	        <p>Who knows what you'll find here.</p>
+	        <h4>Who knows what you'll find here.</h4>
 	      </div>
 	    </div>
     </div>
@@ -46,4 +46,5 @@
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
+
 

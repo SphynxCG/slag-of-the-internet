@@ -26,17 +26,19 @@
 
   <body>
 
-    <?php include "header.php";?>
-
-	<div class="wrapper">
-	    <div class="container">
-	      <div class="starter-template">
-	        <h1>PHP</h1>
-	        <p>Here are some of the things my computer knows about your computer:</p>
-	      </div>
-	    </div>
+  <?php include "header.php";?>
+ 
+  <div class="wrapper">
+    <div class="container">
+      <div class="row">
+        <h1>PHP</h1>
+        <h4>Here are some of the things my computer knows about your computer:</h4>
+      </div>
+      <div class="row">
+        <h5>REQUEST_TIME: <?php echo $_SERVER['REQUEST_TIME']?></h5>
+      </div>
     </div>
-    
+  </div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
