@@ -18,6 +18,10 @@
       include($path);
     ?>
     
+    <link href="/style/colorSquares.css" rel="stylesheet">
+    
+    <script src="/script/colorSquares.js"></script>
+    
   </head>
 
   <body>
@@ -31,7 +35,23 @@
     <div class="wrapper">
       <div class="container">
         <div class="row">
-          <h1>Javascript</h1>
+          <h1>Color Squares</h1>
+          <div class="squares">
+            <script>
+              createSquare();
+              createSquare();
+              createSquare();
+              createSquare();
+              createSquare();
+              createSquare();
+              createSquare();
+              createSquare();
+              createSquare();
+              createSquare();
+              createSquare();
+              createSquare();
+            </script>
+          </div>
         </div>
       </div>
     </div>
