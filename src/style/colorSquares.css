@@ -1,7 +1,10 @@
 .square {
-	height: 10vw;
-	width: 10vw;
-	margin: 0.1vw;
-	background-color: red;
-	display: inline-flex;
-}
+  height: 10vw;
+  width: 10vw;
+  margin: 0.2vw 0.2vw 0 0.2vw;
+  display: inline-flex; }
+
+.square-holder {
+  width: 50vw; }
+
+/*# sourceMappingURL=colorSquares.css.map */

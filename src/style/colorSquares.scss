@@ -1,0 +1,13 @@
+$squareSize: 10vw;
+
+.square {
+	height: $squareSize;
+	width: $squareSize;
+	margin: 0.2vw 0.2vw 0 0.2vw;
+	//background-color: blue;
+	display: inline-flex;
+}
+
+.square-holder {
+  width: 50vw;
+}

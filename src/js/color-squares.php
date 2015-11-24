@@ -36,8 +36,12 @@
       <div class="container">
         <div class="row">
           <h1>Color Squares</h1>
-          <div class="squares">
+          <div class="square-holder">
             <script>
+              createSquare();
+              createSquare();
+              createSquare();
+              createSquare();
               createSquare();
               createSquare();
               createSquare();
