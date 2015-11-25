@@ -1,13 +1,17 @@
 $squareSize: 10vw;
 
+body {
+  line-height: 0;
+}
+
 .square {
 	height: $squareSize;
 	width: $squareSize;
-	margin: 0.2vw 0.2vw 0 0.2vw;
+	//margin: 0.2vw 0.2vw 0 0.2vw;
 	//background-color: blue;
 	display: inline-flex;
 }
 
 .square-holder {
-  width: 50vw;
+  width: 40vw;
 }

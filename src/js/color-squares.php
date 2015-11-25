@@ -38,22 +38,16 @@
           <h1>Color Squares</h1>
           <div class="square-holder">
             <script>
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
-              createSquare();
+              getHolderWidth();
+              getNumberOfSquares();
+              getSquareSize();
+            
+              for ( i = 0 ; i < numberOfSquares; i++ ) {
+                for ( j = 0 ; j < numberOfSquares; j++ ) {
+                  createSquare();
+                }
+              }
+
             </script>
           </div>
         </div>

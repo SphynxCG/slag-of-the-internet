@@ -1,10 +1,12 @@
+body {
+  line-height: 0; }
+
 .square {
   height: 10vw;
   width: 10vw;
-  margin: 0.2vw 0.2vw 0 0.2vw;
   display: inline-flex; }
 
 .square-holder {
-  width: 50vw; }
+  width: 40vw; }
 
 /*# sourceMappingURL=colorSquares.css.map */
