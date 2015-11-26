@@ -47,6 +47,8 @@
                   createSquare();
                 }
               }
+              
+              areAllSame();
 
             </script>
           </div>
