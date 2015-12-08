@@ -39,16 +39,26 @@
           <div class="square-holder">
             <script>
               getHolderWidth();
-              getNumberOfSquares();
+              getNumberOfSquaresWide();
               getSquareSize();
-            
-              for ( i = 0 ; i < numberOfSquares; i++ ) {
-                for ( j = 0 ; j < numberOfSquares; j++ ) {
+
+              // for ( i = 0 ; i < numberOfSquares; i++ ) {
+                // for ( j = 0 ; j < numberOfSquares; j++ ) {
+                  // createSquare();
+                // }
+              // }
+              
+              for( i = 0; i < numberOfSquaresWide; i++ ) {
+                for( j = 0; j < numberOfSquaresWide; j++ ) {
                   createSquare();
                 }
+                square.number[0]++;
+                square.number[1] = 0;
               }
               
-              areAllSame();
+              setTimeout(30000);
+              
+              isSameAs(0,0);
 
             </script>
           </div>
