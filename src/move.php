@@ -8,7 +8,7 @@
     <meta name="robots" content="noindex,nofollow">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href=""/favicon.ico"">
+    <link rel="icon" href="/favicon.ico">
 
     <title>Slag of the Internet</title>
 
@@ -36,6 +36,12 @@
         </div>
       </div>
     </div>
+    
+    <?php
+      $path = $_SERVER['DOCUMENT_ROOT'];
+      $path .= "/inc/footer.php";
+      include($path);
+    ?>
 
     <?php
       $path = $_SERVER['DOCUMENT_ROOT'];
