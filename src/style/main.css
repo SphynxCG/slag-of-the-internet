@@ -5,4 +5,15 @@
   color: #fff;
   background-color: #080808; }
 
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #222222; }
+
+.footer > .container > p {
+  color: #9d9d9d;
+  margin-top: 1em; }
+
 /*# sourceMappingURL=main.css.map */
