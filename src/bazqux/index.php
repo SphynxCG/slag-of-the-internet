@@ -31,7 +31,7 @@
       <div class="container">
         <div class="row">
           <h1>You should not be here. This is a forbidden area.</h1>
-          <h4>If you want to continue using this site, turn back now. You will lose everything if you choose to <a href="/bazqux/foobar">continue</a>.</h4>
+          <h4>If you want to continue using this site, turn back now. You will lose everything if you choose to <a href="/bazqux/foobar" rel="nofollow">continue</a>.</h4>
         </div>
       </div>
     </div>
