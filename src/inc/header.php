@@ -11,8 +11,8 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="nav-make"><a href="/make">MAKE</a></li>
-            <li class="nav-move"><a href="/move">MOVE</a></li>
+            <li class="nav-make"><a href="/make/index.php">MAKE</a></li>
+            <li class="nav-move"><a href="/move/index.php">MOVE</a></li>
           </ul>
         </div>
       </div>

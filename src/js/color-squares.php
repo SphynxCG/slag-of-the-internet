@@ -17,9 +17,9 @@
       include($path);
     ?>
     
-    <link href="/style/colorSquares.css" rel="stylesheet">
+    <link href="/styles/colorSquares.css" rel="stylesheet">
     
-    <script src="/script/colorSquares.js"></script>
+    <script src="/scripts/colorSquares.js"></script>
     
   </head>
 

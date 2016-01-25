@@ -1,7 +1,7 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/style/main.css" rel="stylesheet">
+    <link href="/styles/main.css" rel="stylesheet">
     
-    <script src="/script/aboveScroll.js"></script>
+    <script src="/scripts/aboveScroll.js"></script>
     
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
