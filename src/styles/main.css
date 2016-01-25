@@ -1,3 +1,6 @@
+body {
+  padding-bottom: 50px; }
+
 .wrapper {
   margin-top: 50px; }
 
@@ -5,14 +8,10 @@
   color: #fff;
   background-color: #080808; }
 
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 50px;
+.navbar-fixed-bottom {
   background-color: #222222; }
 
-.footer > .container > p {
+.navbar-fixed-bottom > .container > p {
   color: #9d9d9d;
   margin-top: 1em; }
 

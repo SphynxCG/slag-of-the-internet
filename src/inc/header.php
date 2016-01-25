@@ -13,6 +13,7 @@
           <ul class="nav navbar-nav">
             <li class="nav-make"><a href="/make/index.php">MAKE</a></li>
             <li class="nav-move"><a href="/move/index.php">MOVE</a></li>
+            <li class="nav-sabio"><a href="/sabio/index.php">SABIO</a></li>
           </ul>
         </div>
       </div>
